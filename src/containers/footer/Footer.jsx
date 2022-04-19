@@ -11,16 +11,24 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Links</h4>
-        <p>LinkedIn</p>
-        <p>Facebook</p>
-        <p>Instagram</p>
-        <p>Twitter</p>
+        <a href="https://www.linkedin.com/company/ecellnita/mycompany/" target="_blank" rel="noopener noreferrer">
+          <p>LinkedIn</p>
+        </a>
+        <a href="https://www.facebook.com/ecellnita/" target="_blank" rel="noopener noreferrer">
+          <p>Facebook</p>
+        </a>
+        <a href="https://www.instagram.com/ecellnita/?hl=en" target="_blank" rel="noopener noreferrer">
+          <p>Instagram</p>
+        </a>
+        <a href="https://twitter.com/ecellnita?lang=en" target="_blank" rel="noopener noreferrer">
+          <p>Twitter</p>
+        </a>
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
-        <p>CSE Building</p>
-        <p>ecell@gamil.com</p>
-        <p>nita.ac.in/ecell/</p>
+        <h6>CSE Building</h6>
+        <h6>ecell@gamil.com</h6>
+        <h6>nita.ac.in/ecell/</h6>
       </div>
     </div>
 

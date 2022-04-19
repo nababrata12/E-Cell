@@ -58,6 +58,15 @@
     margin: 1rem;
 }
 
+.gpt3__footer-links_div h6 {
+    font-family: var(--font-family);
+    font-size: 12px;
+    line-height: 15px;
+    color: #fff;
+    margin-top: 20px;
+
+}
+
 .gpt3__footer-links_logo {
     display: flex;
     flex-direction: column;

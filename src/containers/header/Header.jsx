@@ -1,5 +1,5 @@
 import React from 'react';
-import ai from '../../assets/ai.png';
+import ai from '../../assets/brain.webp';
 import './header.css';
 
 const Header = () => (
@@ -9,7 +9,8 @@ const Header = () => (
       <p>ILLUMINATE, a solution proposition competition exclusively for first year students. Best idea will win exciting prize. This competition will provide the participants a real life problem solving experience. Participants can participate in teams as well as individually.</p>
 
       <div className="gpt3__header-content__input">
-        <button type="button">Download Brochure</button>
+        <button type="button"><a href="https://docs.google.com/forms/d/1SkOzKCDKHY3VoCPwTmeijeQ0d55X60qvDwA7bOFpuLE/viewform?edit_requested=true" target="blank" rel="null">Register</a>
+        </button>
       </div>
 
     </div>

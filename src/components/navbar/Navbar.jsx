@@ -14,10 +14,8 @@ const Navbar = () => {
         </div>
         <div className="gpt3__navbar-links_container">
           <p><a href="#home">Home</a></p>
-          <p><a href="#wgpt3">What is E-Cell?</a></p>
-          <p><a href="#possibility">Speaker & Guests</a></p>
-          <p><a href="#features">About Event</a></p>
-          <p><a href="#blog">Team</a></p>
+          <p><a href="#e-cell">What is E-Cell?</a></p>
+          <p><a href="#events">Events</a></p>
         </div>
       </div>
       <div className="gpt3__navbar-menu">
@@ -28,10 +26,8 @@ const Navbar = () => {
         <div className="gpt3__navbar-menu_container scale-up-center">
           <div className="gpt3__navbar-menu_container-links">
             <p><a href="#home">Home</a></p>
-            <p><a href="#wgpt3">What is E-Cell?</a></p>
-            <p><a href="#possibility">Speaker & Guests</a></p>
-            <p><a href="#features">About Event</a></p>
-            <p><a href="#blog">Team</a></p>
+            <p><a href="#e-cell">What is E-Cell?</a></p>
+            <p><a href="#events">Events</a></p>
           </div>
         </div>
         )}
