@@ -9,7 +9,7 @@ const WhatGPT3 = () => (
     </div>
     <div className="gpt3__whatgpt3-heading">
       <h1 className="gradient__text">2 Days Entrepreneurship Bootcamp</h1>
-      <p>23 th & 24 th MAY, 2:30PM Onwards</p>
+      <p>23rd & 24th APRIL, 2:30PM Onwards</p>
     </div>
     <div className="gpt3__whatgpt3-container">
       <Feature title="DAY 1" text="1 Hour Speaker Session & About BMC Building" />
