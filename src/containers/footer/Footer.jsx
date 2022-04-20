@@ -26,9 +26,11 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
-        <h6>CSE Building</h6>
+        <h6>Room G-07, CSE Building, NIT Agartala, Jirania -799046, Agartala, Tripura</h6>
         <h6>nitaecell@gmail.com</h6>
-        <h6>nita.ac.in/ecell/</h6>
+        <a href="https://nita.ac.in/ecell" target="_blank" rel="noopener noreferrer">
+          <h6>nita.ac.in/ecell/</h6>
+        </a>
       </div>
     </div>
 
