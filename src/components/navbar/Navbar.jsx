@@ -11,6 +11,7 @@ const Navbar = () => {
       <div className="gpt3__navbar-links">
         <div className="gpt3__navbar-links_logo">
           <h3 className="logo">
+            <img src="https://res.cloudinary.com/doipe9nqx/image/upload/v1650455624/Logo_White_1_q8vq73.png" alt="E-Cell Logo White" className="ecellWhite" />
             ILLUMINATE
           </h3>
         </div>

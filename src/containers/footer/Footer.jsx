@@ -6,8 +6,8 @@ const Footer = () => (
 
     <div className="gpt3__footer-links">
       <div className="gpt3__footer-links_logo">
-        <img src="https://res.cloudinary.com/doipe9nqx/image/upload/v1650451071/Copy_of_Logo_ry82jk.png" alt="" className="ecellLogo" />
-        <p>Entrepreneurship Bootcamp, <br /> All Rights Reserved</p>
+        <img src="https://res.cloudinary.com/doipe9nqx/image/upload/v1650455405/Copy_of_Logo_moeah7.png" alt="E-Cell Logo" className="ecellLogo" />
+        <p>Illuminate 2022 <br /> Entrepreneurship Bootcamp</p>
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Links</h4>
@@ -35,7 +35,7 @@ const Footer = () => (
     </div>
 
     <div className="gpt3__footer-copyright">
-      <p>@2022 E-Cell. All rights reserved.</p>
+      <p>@2022 E-Cell NIT Agartala. All rights reserved.</p>
     </div>
   </div>
 );
