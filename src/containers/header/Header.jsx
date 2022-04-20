@@ -1,6 +1,7 @@
 import React from 'react';
 import ai from '../../assets/brain.webp';
-import './header.css';
+import './header.css'; 
+import samplePdf from '../../assets/sample.pdf';
 
 const Header = () => (
   <div className="gpt3__header section__padding" id="home">
@@ -12,6 +13,9 @@ const Header = () => (
         <a href="https://forms.gle/B5HhJ6BwZG5Z15E39" target="_blank" rel="noopener noreferrer">
           <button type="button">Register
           </button>
+        </a>
+        <a href={samplePdf} download="MySamplePdf" target="_blank" rel="noopener noreferrer">
+          <button type="button">Download Brouchre</button>
         </a>
       </div>
 
