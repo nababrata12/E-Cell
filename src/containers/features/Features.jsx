@@ -5,11 +5,11 @@ import './features.css';
 const featuresData = [
   {
     title: 'WORKSHOP',
-    text: 'Problem solving is a skill that comes handy in almost every aspect of life.But most of us find it painful to deal with a problem because we never focus on the most important process preceding problem solving "the way to approach a problem".In the workshop students will get familiar with the method of generating an idea as a solution to a practical problem and the art of presenting it in an impactful manner.',
+    text: "The fact that Start-up is a new found fervor in the country is a fact invisible to none. In the day and age where the word entrepreneurship is turning billions of heads, we at E-Cell NITA believe it's imperative to have a basic knowledge on entrepreneurship, problem solving and how to pitch your ideas. Who knows the next million dollar funding might be yours? The day will end with reveal of a problem statement that creates base for the hackathon on day 2.",
   },
   {
     title: 'COMPETITION',
-    text: 'ILLUMINATE 2022 focuses on igniting an infatuation towards entrepreneurship in the minds of students of batch 22. And there is not a better way to do this than applying the already learnt knowledge to use. The competition will see the students using the methods they learnt in the workshop in solving different kinds of problems and presenting it before the jury.',
+    text: "This is a 24-hour hackathon exclusively for our Freshers with an aim to encourage creative problem solving and recognize the essence of time management. Contrary to popular belief you don't need any skills to participate in a hackathon. One of the goals of a Hackathon is to teach you the required skills that you need to build a hack during the event itself. The participants can apply the techniques they learnt in workshop and use the same in presenting a solution to an already provided problem statement before the jury.",
   },
 ];
 
