@@ -6,11 +6,13 @@ const Header = () => (
   <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
       <h1 className="gradient__text">Better To Illuminate Than Merely To Shine</h1>
-      <p>ILLUMINATE, a solution proposition competition exclusively for first year students. Best idea will win exciting prize. This competition will provide the participants a real life problem solving experience. Participants can participate in teams as well as individually.</p>
+      <p>ILLUMINATE, a solution proposition competition exclusively for first year students. Best idea will win exciting prizes. This competition will provide the participants a real life problem solving experience. Participants can enter the competition in teams as well as individually.</p>
 
       <div className="gpt3__header-content__input">
-        <button type="button"><a href="https://docs.google.com/forms/d/1SkOzKCDKHY3VoCPwTmeijeQ0d55X60qvDwA7bOFpuLE/viewform?edit_requested=true" target="blank" rel="null">Register</a>
-        </button>
+        <a href="https://forms.gle/B5HhJ6BwZG5Z15E39" target="_blank" rel="noopener noreferrer">
+          <button type="button">Register
+          </button>
+        </a>
       </div>
 
     </div>

@@ -12,6 +12,12 @@
     font-family: arial;
 }
 
+.ecellWhite{
+    height: 30px !important;
+    width: 40px !important;
+    margin-right: 10px !important;
+}
+
 .gpt3__navbar-links {
     flex: 1;
     display: flex;

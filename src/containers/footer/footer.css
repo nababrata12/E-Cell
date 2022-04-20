@@ -14,6 +14,11 @@
     margin-bottom: 3rem;
 }
 
+.ecellLogo{
+    height: 131px !important;
+    width: 160px !important;
+}
+
 .gpt3__footer-heading h1 {
     font-family: var(--font-family);
     font-weight: 800;
