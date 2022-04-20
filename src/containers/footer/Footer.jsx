@@ -6,7 +6,7 @@ const Footer = () => (
 
     <div className="gpt3__footer-links">
       <div className="gpt3__footer-links_logo">
-        <h3 className="logo">ILLUMINATE</h3>
+        <img src="https://res.cloudinary.com/doipe9nqx/image/upload/v1650451071/Copy_of_Logo_ry82jk.png" alt="" className="ecellLogo" />
         <p>Entrepreneurship Bootcamp, <br /> All Rights Reserved</p>
       </div>
       <div className="gpt3__footer-links_div">

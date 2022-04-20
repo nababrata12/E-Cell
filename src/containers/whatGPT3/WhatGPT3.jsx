@@ -12,7 +12,7 @@ const WhatGPT3 = () => (
       <p>23rd & 24th APRIL, 2:30PM Onwards</p>
     </div>
     <div className="gpt3__whatgpt3-container">
-      <Feature title="DAY 1" text="1 Hour Speaker Session & About BMC Building" />
+      <Feature title="DAY 1" text="1 Hour Speaker Session About Entrepreneurship & BMC" />
       <Feature title="DAY 2" text="Announcement Of Results & Prize Distribution" />
     </div>
   </div>

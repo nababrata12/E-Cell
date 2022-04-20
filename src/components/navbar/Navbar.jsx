@@ -10,7 +10,9 @@ const Navbar = () => {
     <div className="gpt3__navbar">
       <div className="gpt3__navbar-links">
         <div className="gpt3__navbar-links_logo">
-          <h3 className="logo">ILLUMINATE</h3>
+          <h3 className="logo">
+            ILLUMINATE
+          </h3>
         </div>
         <div className="gpt3__navbar-links_container">
           <p><a href="#home">Home</a></p>
