@@ -1,5 +1,5 @@
 #ILLUMINATE-The StartUp Bootcamp
-![Micael](https://ibb.co/2NXJ18f)
+![Micael](https://i.ibb.co/2NXJ18f/Screenshot-128.png)
 
 # About E-Cell
 
