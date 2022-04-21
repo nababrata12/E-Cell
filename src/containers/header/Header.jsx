@@ -1,7 +1,7 @@
 import React from 'react';
 import ai from '../../assets/brain.webp';
 import './header.css'; 
-import samplePdf from '../../assets/Illuminate.pdf';
+import samplePdf from '../../assets/ILLUMINATE.pdf';
 
 const Header = () => (
   <div className="gpt3__header section__padding" id="home">
